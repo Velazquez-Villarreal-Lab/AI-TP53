@@ -1,0 +1,6 @@
+Name	Description
+TCGA_COAD	Colorectal Adenocarcinoma TCGA PanCancer data.
+TCGA_LUSC	Lung Squamous Cell Carcinoma TCGA PanCancer data.
+TCGA_BRCA	Breast Invasive Carcinoma TCGA PanCancer data.
+COAD_WNT	COAD WNT from CoH (04222025)
+AI_TP53	AI TP53 from CoH
